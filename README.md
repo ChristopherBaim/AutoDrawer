@@ -1,13 +1,12 @@
 ## Auto Drawer
 Auto Drawer is a simple freehand drawing tool using mouse automation.
 From a source image, it automatically draws a [binary image](https://en.wikipedia.org/wiki/Binary_image)
-in applications that allow freehand mouse drawing (ex.Windows Paint or [Roll20](https://roll20.net/)).
+in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll20](https://roll20.net/)).
 
 <p align="center">
-  <img src="/assets/examples/Github.gif" width="300"></img>
+  <img src="/assets/examples/Github.gif" width="200"></img>
 </p>
 
-<div align="center"> <em>Drawing speed can be increased or decreased</em> </div>
 
 ## Motivation
 Online gaming services, like Roll20, often allow users to freehand draw onto maps 
@@ -16,8 +15,8 @@ a drawing tablet and artistic skill.
 
 ## Features
 
-### Source
 <p align="center">
+  <bold> Source >/bold>
   <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
 </p>
 
