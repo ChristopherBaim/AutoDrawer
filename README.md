@@ -7,7 +7,7 @@ in applications that allow freehand mouse drawing (ex.Windows Paint or [Roll20](
   <img src="/assets/examples/Github.gif" width="500"></img>
 </p>
 
-<div align="center"> *Drawing speed can be increased or decreased* </div>
+<div align="center"> <em>Drawing speed can be increased or decreased</em> </div>
 ## Motivation
 Online gaming services, like Roll20, often allow users to freehand draw onto maps 
 for other players to see. I wanted a way to make decent drawings without requiring
