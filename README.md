@@ -24,10 +24,10 @@ a drawing tablet and artistic skill.
  </p>
 
 
-<p float="left">
-  <img src="/assets/examples/Resolution.png" width="200"></img>
-  <img src="/assets/examples/Scales.png" width="200"></img>
-  <img src="/assets/examples/Github.gif" width="200"></img>
+<p float="center">
+  <kbd><img src="/assets/examples/Resolution.png" width="200"></img></kbd>
+  <kbd><img src="/assets/examples/Scales.png" width="200"></img></kbd>
+  <kbd><img src="/assets/examples/Github.gif" width="200"></img></kbd>
 </p>
 
 ## Examples
