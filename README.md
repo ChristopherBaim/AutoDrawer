@@ -17,8 +17,12 @@ a drawing tablet and artistic skill.
 
 <p align="center">
   <bold> Source </bold>
+ </p>
+ 
+ <p align="center">
   <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
-</p>
+ </p>
+
 
 <p float="left">
   <img src="/assets/examples/Resolution.png" width="200"></img>
