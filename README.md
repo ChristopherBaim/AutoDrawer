@@ -16,9 +16,11 @@ a drawing tablet and artistic skill.
 ## Features
 
 <p align="center">
-  | <kbd><img src="/assets/examples/Resolution.png" height="150"></img></kbd> | <kbd><img src="/assets/examples/Scales.png" height="200"></img></kbd> | <kbd><img src="/assets/examples/Github.gif" height="200"></img></kbd> |
-|:---:|:---:|:---:|
-| *test1*  | *test2*  | *test3* |
+  | <kbd><img src="/assets/examples/Resolution.png" height="150"></img></kbd> | 
+  <kbd><img src="/assets/examples/Scales.png" height="200"></img></kbd> | 
+  <kbd><img src="/assets/examples/Github.gif" height="200"></img></kbd> |
+  |:---:|:---:|:---:|
+  | *test1*  | *test2*  | *test3* |
 </p>
 
 
