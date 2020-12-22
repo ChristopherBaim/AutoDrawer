@@ -25,9 +25,9 @@ a drawing tablet and artistic skill.
 
 
 <p float="center">
-  <kbd><img src="/assets/examples/Resolution.png" width="200"></img></kbd>
-  <kbd><img src="/assets/examples/Scales.png" width="200"></img></kbd>
-  <kbd><img src="/assets/examples/Github.gif" width="200"></img></kbd>
+  <kbd><img src="/assets/examples/Resolution.png" height="200"></img></kbd>
+  <kbd><img src="/assets/examples/Scales.png" height="200"></img></kbd>
+  <kbd><img src="/assets/examples/Github.gif" height="200"></img></kbd>
 </p>
 
 ## Examples
