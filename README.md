@@ -16,13 +16,11 @@ a drawing tablet and artistic skill.
 ## Features
 
 <p align="center">
-  | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) |
-  |:---:|:---:|:---:|
-  |*test1*  |*test2*  |*test3*|
 </p>
+
 | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) |
 |:---:|:---:|:---:|
-|*test1*  |*test2*  |*test3*|
+| *test1*  | *test2*  | *test3* |
   
  | [![VideoBlocks](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![AudioBlocks](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | [![GraphicStock](http://www.graphicstock.com/images/logo.jpg)](http://graphicstock.com) |
 |:---:|:---:|:---:|
