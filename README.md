@@ -17,23 +17,15 @@ a drawing tablet and artistic skill.
 ## Features
 
 ### Source
-<img src="/assets/source/github.png" width="200"></img>
+<kbd><img align="center" src="/assets/source/github.png" width="200"></img></kbd> 
 
-### Adjustable resolution
-<img src="/assets/examples/Resolution.png" width="200"></img>
-
-### Adjustable scale
-<img src="/assets/examples/Scales.png" width="200"></img>
-
-### Adjustable speed
-<img src="/assets/examples/Github.gif" width="200"></img>
-
-## Examples
 <p float="left">
   <img src="/assets/examples/Resolution.png" width="200"></img>
   <img src="/assets/examples/Scales.png" width="200"></img>
   <img src="/assets/examples/Github.gif" width="200"></img>
 </p>
+
+## Examples
 
 
 ## Built using
