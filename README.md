@@ -29,8 +29,11 @@ a drawing tablet and artistic skill.
 <img src="/assets/examples/Github.gif" width="200"></img>
 
 ## Examples
-
-
+<p float="left">
+  <img src="/assets/examples/Resolution.png" width="200"></img>
+  <img src="/assets/examples/Scales.png" width="200"></img>
+  <img src="/assets/examples/Github.gif" width="200"></img>
+</p>
 
 
 ## Built using
