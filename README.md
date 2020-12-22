@@ -16,17 +16,19 @@ a drawing tablet and artistic skill.
 
 ## Features
 
-# Source
+### Source
 <img src="/assets/source/github.png" width="200"></img>
 
-# Adjustable resolution
+### Adjustable resolution
 <img src="/assets/examples/Resolution.png" width="200"></img>
 
-# Adjustable scale
-<img src="/assets/examples/Resolution.png" width="200"></img>
+### Adjustable scale
+<img src="/assets/examples/Scales.png" width="200"></img>
 
-# Adjustable speed
+### Adjustable speed
 <img src="/assets/examples/Github.gif" width="200"></img>
+
+## Examples
 
 
 
