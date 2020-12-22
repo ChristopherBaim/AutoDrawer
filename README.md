@@ -16,8 +16,10 @@ a drawing tablet and artistic skill.
 ## Features
 
 <p align="center">
-  <bold> Source </bold>
- </p>
+  | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) | ![drawing](drawing.jpg) |
+  |:---:|:---:|:---:|
+  |*test1*  |*test2*  |*test3*|
+</p>
  
  <p align="center">
   <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
