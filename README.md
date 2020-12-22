@@ -16,7 +16,7 @@ a drawing tablet and artistic skill.
 ## Features
 
 <p align="center">
-  <bold> Source >/bold>
+  <bold> Source </bold>
   <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
 </p>
 
