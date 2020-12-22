@@ -18,7 +18,7 @@ a drawing tablet and artistic skill.
 <p align="center">
 </p>
 
-| ![drawing1](assets/examples/Resolution.png) | ![drawing2](/assets/examples/Scales.png) | ![drawing3](/assets/examples/Github.gif) |
+| <kbd><img src="/assets/examples/Resolution.png" height="150"></img></kbd> | <kbd><img src="/assets/examples/Scales.png" height="200"></img></kbd> | <kbd><img src="/assets/examples/Github.gif" height="200"></img></kbd> |
 |:---:|:---:|:---:|
 | *test1*  | *test2*  | *test3* |
 
