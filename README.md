@@ -1,5 +1,6 @@
 ## Auto Drawer
 <img align="right" src="/assets/examples/Github.gif" width="200"></img>
+<p align="right"> text</p>
 *Drawing speed can be increased or decreased*
 
 Auto Drawer is a simple freehand drawing tool using mouse automation.
