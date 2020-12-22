@@ -1,7 +1,8 @@
 ## Auto Drawer
-<img align="right" src="/assets/examples/Github.gif" width="200"></img>
-<p align="right"> text</p>
-*Drawing speed can be increased or decreased*
+<p align="right">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  *Drawing speed can be increased or decreased*
+</p>
 
 Auto Drawer is a simple freehand drawing tool using mouse automation.
 From a source image, it automatically draws a [binary image](https://en.wikipedia.org/wiki/Binary_image)
