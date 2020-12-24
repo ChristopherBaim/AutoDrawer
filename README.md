@@ -14,29 +14,29 @@ for other players to see. I wanted a way to make decent drawings without requiri
 a drawing tablet and artistic skill. 
 
 ## Features
+Works with any common image file format (ex. PNG, JPEG, BMP, GIF, TIFF)
 
+Adjustable drawing settings including resolution, size, and speed
 
- <p align="left">
-  <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
- </p>
-
-| <kbd><img src="/assets/source/github.png" width="100"></img></kbd> | <kbd><img src="/assets/examples/Resolution.png" height="100"></img></kbd> | <kbd><img src="/assets/examples/Scales.png" height="100"></img></kbd> | <kbd><img src="/assets/examples/Github.gif" height="100"></img></kbd> |
+| <img src="/assets/source/github.png" height="100"></img> | <img src="/assets/examples/Resolution.png" height="100"></img> | <img src="/assets/examples/Scales.png" height="100"></img> | <img src="/assets/examples/GithubCrop.gif" height="100"></img> |
 | :---: | :---: | :---: | :---: |
-| *test1* | *test2* | *test3* | *test4* |
-
-
-
-
-<p float="center">
-  <kbd><img src="/assets/examples/Resolution.png" height="150"></img></kbd>
-  <kbd><img src="/assets/examples/Scales.png" height="200"></img></kbd>
-  <kbd><img src="/assets/examples/Github.gif" height="200"></img></kbd>
-</p>
+| *Source* | *Resolution* | *Size* | *Speed* |
 
 ## Examples
 
+#### Works with photographs
+
+| <img src="/assets/source/face.jpg" height="200"></img> | <img src="/assets/examples/FaceDrawn.png" height="200"></img> | <img src="/assets/examples/FaceDrawnHighRes.png" height="200"></img> |
+| :---: | :---: | :---: |
+| *Source* | *Low Resolution* | *High Resolution* |
+
+#### Works with color images
+
+| <img src="/assets/source/GreatWave.jpg" height="200"></img> | <img src="/assets/examples/GreatWaveDrawn.png" height="200"></img> | 
+| :---: | :---: |
+| *Source* | *Output* | 
 
 ## Built using
-
-
-## Credits
+- [Pillow (PIL Fork)](https://pillow.readthedocs.io/en/stable/#) for image processing
+- [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for mouse automation
+- [NumPy](https://numpy.org/) to organize image data array
