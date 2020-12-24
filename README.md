@@ -23,13 +23,13 @@ a drawing tablet and artistic skill.
 
 #### Works with photographs
 
-| <img src="/assets/source/face.jpg" height="200"></img> | <img src="/assets/examples/FaceDrawn.png" height="200"></img> | <img src="/assets/examples/FaceDrawnHighRes" height="200"></img> |
+| <img src="/assets/source/face.jpg" height="200"></img> | <img src="/assets/examples/FaceDrawn.png" height="200"></img> | <img src="/assets/examples/FaceDrawnHighRes.png" height="200"></img> |
 | :---: | :---: | :---: |
 | *Source* | *Low Resolution* | *High Resolution* |
 
 #### Works with color images
 
-| <img src="/assets/source/GreatWave.jpg" height="200"></img> | <img src="/assets/examples/GreatWaveDran.png" height="200"></img> | 
+| <img src="/assets/source/GreatWave.jpg" height="200"></img> | <img src="/assets/examples/GreatWaveDrawn.png" height="200"></img> | 
 | :---: | :---: |
 | *Source* | *Output* | 
 
