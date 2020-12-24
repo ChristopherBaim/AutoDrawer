@@ -20,12 +20,9 @@ a drawing tablet and artistic skill.
   <kbd><img src="/assets/source/github.png" width="200"></img></kbd>
  </p>
 
-| <kbd><img src="/assets/source/github.png" width="100"></img></kbd> |
-<kbd><img src="/assets/examples/Resolution.png" height="100"></img></kbd> | 
-<kbd><img src="/assets/examples/Scales.png" height="100"></img></kbd> | 
-<kbd><img src="/assets/examples/Github.gif" height="100"></img></kbd> |  
-|:---:|:---:|:---:|:---:|
-| *test1*  | *test2*  | *test3* | *test4* |
+| <kbd><img src="/assets/source/github.png" width="100"></img></kbd> | <kbd><img src="/assets/examples/Resolution.png" height="100"></img></kbd> | <kbd><img src="/assets/examples/Scales.png" height="100"></img></kbd> | <kbd><img src="/assets/examples/Github.gif" height="100"></img></kbd> |
+| :---: | :---: | :---: | :---: |
+| *test1* | *test2* | *test3* | *test4* |
 
 
 
