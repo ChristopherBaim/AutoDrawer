@@ -18,7 +18,7 @@ Works with any common image file format (ex. PNG, JPEG, BMP, GIF, TIFF)
 
 Adjustable drawing settings including resolution, size, and speed
 
-| <img src="/assets/source/github.png" height="100"></img> | <img src="/assets/examples/Resolution.png" height="100"></img> | <img src="/assets/examples/Scales.png" height="100"></img> | <img src="/assets/examples/GithubCrop.gif" height="100"></img> |
+| <img src="/assets/source/github.jpg" height="100"></img> | <img src="/assets/examples/Resolution.png" height="100"></img> | <img src="/assets/examples/Scales.png" height="100"></img> | <img src="/assets/examples/GithubCrop.gif" height="100"></img> |
 | :---: | :---: | :---: | :---: |
 | *Source* | *Resolution* | *Size* | *Speed* |
 
