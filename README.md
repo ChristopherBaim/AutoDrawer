@@ -24,6 +24,22 @@ Adjustable drawing settings including resolution, size, and speed
 | :---: | :---: | :---: | :---: |
 | *Source* | *Resolution* | *Size* | *Speed* |
 
+## How to use
+1. Load image (any common image format)
+2. Adjust image settings
+    * RGB channel used as source (All uses a grayscale image source)
+    * Threshold
+    * Resolution (if an 8-bit feel is desired)
+    * Invert image (Note: Only black area in preview will be drawn)
+3. Adjust drawing settings
+    * Image size (Adjust 1 value at a time to keep aspect ratio)
+    * Adjust pixel size if drawing in program with larger brush size (Note: This will impact the final image size)
+    * Adjust drawing speed (slower settings recommended if drawing program can't handle rapid input)
+4. Press Enter key to preview drawing size (make sure it won't go off the drawing program otherwise errant clicks can occur)
+5. Click Arm
+6. Click Enter again over canvas to initiate drawing
+7. (Optional) Quickly move mouse to any corner of your screen to cancel drawing
+
 ## Examples
 
 #### Works with photographs
