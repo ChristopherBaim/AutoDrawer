@@ -27,7 +27,7 @@ Adjustable drawing settings including resolution, size, and speed
 ## How to use
 1. Load image (any common image format)
 2. Adjust image settings
-    * RGB channel used as source (All uses a grayscale image source)
+    * RGB channel used as source ("All" uses a grayscale image source)
     * Threshold
     * Resolution (if an 8-bit feel is desired)
     * Invert image (Note: Only black area in preview will be drawn)
@@ -58,3 +58,4 @@ Adjustable drawing settings including resolution, size, and speed
 - [Pillow (PIL Fork)](https://pillow.readthedocs.io/en/stable/#) for image processing
 - [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/) for mouse automation
 - [NumPy](https://numpy.org/) to organize image data array
+- [Tkinter](https://docs.python.org/3/library/tkinter.html) for GUI
