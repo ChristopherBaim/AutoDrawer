@@ -1,10 +1,10 @@
 ## Auto Drawer
-Auto Drawer is a simple freehand drawing tool using mouse automation.
+Auto Drawer is a simple freehand drawing application using mouse automation.
 From a source image, it draws a [binary image](https://en.wikipedia.org/wiki/Binary_image)
 in applications that allow freehand mouse drawing (ex. Microsoft Paint or [Roll20](https://roll20.net/)).
 
 <p align="center">
-  <img src="/assets/examples/Github.gif" width="200">
+  <img src="/assets/examples/OctocatGIF.gif" width="500">
   <br>
   <b>GitHub logo drawn with Auto Drawer</b>
 </p>
