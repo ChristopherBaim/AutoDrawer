@@ -3,6 +3,7 @@ from tkinter import filedialog
 from PIL import ImageTk,Image, ImageOps
 import pyautogui
 from numpy import asarray
+import keyboard
 
 class Picture(object):
     def __init__(self):
@@ -17,6 +18,7 @@ class Settings(object):
         self.resolution = None
         self.armed = False
         self.threshold = None
+        self.interrupted = False
 
 def loadPic():
     global img
@@ -194,7 +196,7 @@ def armDrawing():
     settings.armed = not settings.armed
 
 def moveMouse(event):
-
+    settings.interrupted = False
     im2 = pic.thresh_preview.resize(settings.size, 1)
     im2= im2.convert('L').point(lambda p: p > settings.threshold and 255)
 
@@ -207,6 +209,8 @@ def moveMouse(event):
         x, y = pyautogui.position()
 
         for row in data:
+            if settings.interrupted == True:
+                break
             pyautogui.moveTo(x, y + (posY * pxSize))
             current = row[0]
             run = 0
@@ -244,6 +248,11 @@ def invertPreview():
     w2.set(abs(255 - w2.get()))
     show_values(None)
 
+def interrupt():
+    print("Killed")
+    settings.interrupted = True
+
+
 pic = Picture()
 settings = Settings()
 
@@ -276,6 +285,8 @@ speed_var = StringVar()
 # Start listening for keyboard input
 root.bind('<Return>', lambda event: moveMouse(event))
 root.focus_force()
+interrupted = False
+keyboard.add_hotkey("esc", lambda: interrupt())
 
 # Create widgets for each frame
 load = Button(topFrame, text='Load Image', command=loadPic)
