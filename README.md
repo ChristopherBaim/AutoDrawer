@@ -38,7 +38,8 @@ Adjustable drawing settings including resolution, size, and speed
 4. Press Enter key to preview drawing size (make sure it won't go off the drawing program otherwise errant clicks can occur)
 5. Click Arm
 6. Click Enter again over canvas to initiate drawing
-7. (Optional) Quickly move mouse to any corner of your screen to cancel drawing
+
+#### To cancel drawing, press Esc or quickly move your mouse to any corner of your screen
 
 ## Examples
 
