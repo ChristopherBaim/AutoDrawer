@@ -24,6 +24,42 @@ Adjustable drawing settings including resolution, size, and speed
 | :---: | :---: | :---: | :---: |
 | *Source* | *Resolution* | *Size* | *Speed* |
 
+## Installation
+
+Auto Drawer needs **Python 3** with Tkinter and the packages in `requirements.txt`.
+
+First, get the code (either clone with git or download and unzip the ZIP from the green **Code** button):
+
+```
+git clone https://github.com/ChristopherBaim/AutoDrawer.git
+cd AutoDrawer
+```
+
+#### Windows
+Install [Python 3](https://www.python.org/downloads/) (check **Add python.exe to PATH** during setup; Tkinter is included), then:
+```
+pip install -r requirements.txt
+python AutoDrawer.py
+```
+
+#### macOS
+```
+brew install python-tk        # Tkinter for Python on macOS
+pip3 install -r requirements.txt
+sudo python3 AutoDrawer.py    # keyboard hotkeys require root
+```
+The first run will prompt for **Accessibility** permission (System Settings → Privacy & Security → Accessibility) so the app can control the mouse and read the Esc key.
+
+#### Linux (Debian/Ubuntu/Mint)
+```
+sudo apt update
+sudo apt install python3-pip python3-tk
+pip3 install -r requirements.txt
+sudo python3 AutoDrawer.py    # keyboard hotkeys require root
+```
+
+> **Note:** the `keyboard` package needs root to capture global hotkeys (the Esc cancel key), so on macOS and Linux run the app with `sudo`. On Windows, run it from a normal terminal.
+
 ## How to use
 1. Load image (any common image format)
 2. Adjust image settings
