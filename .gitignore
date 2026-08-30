@@ -7,8 +7,5 @@ __pycache__/
 venv/
 env/
 
-# Locally generated test assets (not part of the project)
-test_images/
-
 # macOS
 .DS_Store
