@@ -26,7 +26,8 @@ def loadPic():
     # Load image and adjust size to fit window
     filename = filedialog.askopenfilename(initialdir = "/",
                                           title = "Select a File",
-                                          filetypes = (("all files", "*.*"), ("jpeg files","*.jpg")))
+                                          filetypes = (("Image files", "*.png *.jpg *.jpeg *.gif *.bmp *.tif *.tiff *.webp *.ppm"),
+                                                       ("All files", "*")))
     pic.source = Image.open(filename).convert("RGB")
 
     adj = max(pic.source.width, pic.source.height) / 250
