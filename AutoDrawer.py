@@ -241,7 +241,6 @@ def moveMouse(event):
     # Move mouse to preview final size of drawing
     else:
         pyautogui.move(settings.size[0]*pxSize, settings.size[1]*pxSize, 0.5)
-        print(settings.size[0],settings.size[1])
 
 def invertPreview():
 
@@ -250,7 +249,6 @@ def invertPreview():
     show_values(None)
 
 def interrupt():
-    print("Killed")
     settings.interrupted = True
 
 
