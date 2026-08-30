@@ -24,7 +24,29 @@ Adjustable drawing settings including resolution, size, and speed
 | :---: | :---: | :---: | :---: |
 | *Source* | *Resolution* | *Size* | *Speed* |
 
-## Installation
+## Download for Windows
+
+Not comfortable with Python? Grab the standalone Windows app — no install required, just download and double-click:
+
+### ➡️ [Download AutoDrawer.exe](https://github.com/ChristopherBaim/AutoDrawer/releases/latest/download/AutoDrawer.exe)
+
+(Or browse all versions on the [Releases page](https://github.com/ChristopherBaim/AutoDrawer/releases/latest).)
+
+> **⚠️ You may see a security warning — this is expected.** Windows SmartScreen may show a
+> blue *"Windows protected your PC"* box, or your antivirus may flag the file. This is a
+> **false positive**: AutoDrawer works by simulating mouse and keyboard input, which is
+> exactly the kind of behavior security software watches for. The `.exe` is built
+> automatically from this repository's source code by GitHub Actions
+> ([`release.yml`](.github/workflows/release.yml)) — nothing is added by hand.
+>
+> To run it anyway, click **More info → Run anyway** on the SmartScreen prompt (and, if your
+> antivirus quarantines it, allow/restore the file).
+>
+> **Prefer not to run a prebuilt `.exe`?** You don't have to — you can run AutoDrawer straight
+> from the source code instead (see [Run from source](#run-from-source) below). That's also
+> the path for **macOS and Linux**, which don't have a prebuilt download.
+
+## Run from source
 
 Auto Drawer needs **Python 3** with Tkinter and the packages in `requirements.txt`.
 
